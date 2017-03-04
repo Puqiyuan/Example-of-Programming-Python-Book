@@ -17,7 +17,6 @@ Sue Jones
 pqy@sda1:~/.../chapter1$ 
 """
 
-
 from initdata import tom
 import shelve
 db = shelve.open('people-shelve')
